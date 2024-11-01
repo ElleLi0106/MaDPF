@@ -13,9 +13,9 @@ Article related materials, including original datasets, prosessing documents, fi
 2. 处理数据/Processing documents:  
    详见branch data-and-process-documentation/see branch data-and-process-documentation for details
   
-3. 图表/Figures and tables：
-   详见branch figures-and-tables/see branch for details
-   目前包含：Figure 2. 和 Table 1.
+3. 图表/Figures and tables：  
+   详见branch figures-and-tables/see branch for details  
+   目前包含：Figure 2. 和 Table 1.  
    including Figure 2. and Table 1.  
 
   
