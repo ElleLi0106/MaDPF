@@ -7,7 +7,7 @@
       IMDbMoviesReviews数据来源/Data Source: https://ai.stanford.edu/~amaas/data/sentiment/  
       ProductReview: Sentiment Analysis 中文情感分析.zip  
       Waimai_10k: waimai_10k.csv  
-3. 处理数据/processing documents:  
+2. 处理数据/processing documents:  
    详见branch data-and-process-documentation/see branch data-and-process-documentation
-4. 图表：
-5. 代码：
+3. 图表：
+4. 代码：
