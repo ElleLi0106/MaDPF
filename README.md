@@ -11,7 +11,7 @@ Article related materials, including original datasets, prosessing documents, fi
       Waimai_10k: waimai_10k.csv
   
 2. 处理数据/Processing documents:  
-   详见directory data-and-process-documentation/see directory data-and-process-documentation for details
+   详见branch data-and-process-documentation/see branch data-and-process-documentation for details
   
 3. 图表/Figures and tables：  
    详见directory figures-and-tables/see directory figures-and-tables for details  
@@ -19,4 +19,4 @@ Article related materials, including original datasets, prosessing documents, fi
    including Figure 2. and Table 1.  
 
   
-4. 代码/Code：
+4. 代码/Codes：
