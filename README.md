@@ -1,2 +1,6 @@
 # MaDPF
-Materials including data, code and results
+论文相关材料，包括原始数据、处理数据、图表、代码等
+1. 原始数据：
+2. 处理数据：
+3. 图表：
+4. 代码：
