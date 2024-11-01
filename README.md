@@ -1,7 +1,6 @@
 # MaDPF
 论文相关材料，包括原始数据、处理数据、图表、代码等 article related materials, including original datasets, prosessing documents, figures, tables and codes.
-1. 原始数据/original datasets：
-   详见branch original-datasets/see branch original-datasets:
+1. 原始数据/original datasets：/n详见branch original-datasets/see branch original-datasets:
    原始数据包含/original datasets including：
    ChnSentiCorp_htl_all: ChnSentiCorp_htl_all.txt
    IMDbMoviesReviews数据来源/Data Source: https://ai.stanford.edu/~amaas/data/sentiment/
